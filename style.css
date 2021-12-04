@@ -1,5 +1,42 @@
-* {
-  box-sizing: border-box;
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&family=Poppins:wght@100;400&display=swap");
+body {
+  background: #949494;
+  font-family: "Montserrat", sans-serif;
 }
-
-/* Add CSS Styles Below */
+.Store {
+  font-size: 65px;
+  font-style: normal;
+  font-weight: 400;
+  color: #fff;
+  letter-spacing: 10px;
+  text-align: center;
+}
+.sale {
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  color: #fff;
+  text-align: left;
+}
+.nav {
+  font-size: 10px;
+  font-style: thin;
+  font-weight: 400;
+  word-spacing: 10px;
+  color: #fff;
+  text-align: left;
+}
+.Call {
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  color: #ffc107;
+  text-align: left;
+}
+.paragraph {
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+  color: #343a40;
+  text-align: left;
+}
